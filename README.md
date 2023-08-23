@@ -25,6 +25,9 @@ Certifique-se de ter o ambiente configurado com os seguintes requisitos:
 1. Execute as células do notebook em ordem para carregar os dados e realizar a análise.
 1. Os resultados serão exibidos diretamente no notebook, mostrando os resultados.
 
+* Colab Link:
+  - https://colab.research.google.com/drive/1NlJA0nZidTBY-2M6hCJy0vjkS5eLl0Yl?usp=sharing
+
 # Dados
 * Os dados necessários para a análise estão disponíveis no ambiente do Google Colab(Caso for Compartilhar). 
 * Certifique-se de fazer o upload dos arquivos CSV conforme as instruções acima.
