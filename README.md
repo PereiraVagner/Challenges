@@ -41,11 +41,11 @@ etc.) mais votou em cada candidato
 
 Não foi possivel indentificar o perfil dos eleitores, principalemente, devido a falta de algumas informação para que fosse possivel fazer uma conexão entre os votos recebidos pelo candidato e os votos por perfil, assim como demosntrado na célula:
 * Tests Agregação - Perfil Eleitorado mais votos em cada candidato
-<img src="C7723066-3834-4585-8913-F865CC9AAD66.jpeg">
+<img src="images/C7723066-3834-4585-8913-F865CC9AAD66.jpeg">
 
 
 * Tests verificar quantidade votos/Perfil
-<img src="59EDCD95-579E-46EB-A304-7C84BCF8B817.jpeg">
+<img src="images/59EDCD95-579E-46EB-A304-7C84BCF8B817.jpeg">
 
 
 
