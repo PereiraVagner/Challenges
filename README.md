@@ -34,7 +34,7 @@ Certifique-se de ter o ambiente configurado com os seguintes requisitos:
 
 
 # Resultados
-Os resultados da análise demostram foi possivel responder as seuinte perguntas perguntas:
+Os resultados da análise demostram que foi possivel responder as seguintes perguntas perguntas:
 * em qual município o candidato X foi mais votado
 * qual candidato foi mais votado em cada município
 
@@ -42,7 +42,7 @@ Com relação ao ultimo requisito:
 * qual perfil do eleitorado (faixa etária, gênero, grau de escolaridade,
 etc.) mais votou em cada candidato
 
-Não foi possivel indentificar o perfil dos eleitores, principalemente, devido a falta de algumas informação para que fosse possivel fazer uma conexão entre os votos recebidos pelo candidato e os votos por perfil, assim como demosntrado na célula:
+Não foi possivel indentificar o perfil dos eleitores, principalemente, devido a falta de algumas informação para que fosse possível fazer uma conexão entre os votos recebidos pelo candidato e os votos por perfil, assim como demosntrado na célula:
 * Tests Agregação - Perfil Eleitorado mais votos em cada candidato
 <img src="images/C7723066-3834-4585-8913-F865CC9AAD66.jpeg">
 
